@@ -1,0 +1,18 @@
+html{
+    font-family: Georgia, serif;
+}
+h1,h2{
+    color: maroon;
+    font-family: Impact, sans-serif;
+}
+.text{
+    display: block;
+    margin: 0 auto;
+    width: 700px;
+}
+img{
+    display: block;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
